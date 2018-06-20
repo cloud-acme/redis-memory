@@ -16,5 +16,6 @@ step3: Move the project to the htdocs path of your website server
    - mv redis-memory /path/htdocs
 
 It's very easy to install and use. Here is a image of the Demo below.
-![Demo](https://github.com/cloud-acme/redis-memory/img/redis-memory-demo.png)
+
+![Demo](https://github.com/cloud-acme/redis-memory/blob/master/img/redis-memory-demo.png)
 
